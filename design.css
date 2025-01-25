@@ -20,6 +20,12 @@ header {
     border-radius: 25px;
 }
 
+#My_info{
+    text-align: center;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
 .container{
     display:grid;
     grid-template-columns: repeat(3, 1fr);
